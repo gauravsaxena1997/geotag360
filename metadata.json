@@ -1,0 +1,8 @@
+{
+  "name": "GeoTAG 360",
+  "description": "A geo-tagged monitoring platform for Functional Household Tap Connections (FHTC). Features role-based access for Field Workers (data collection) and Admins (verification & analytics).",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
